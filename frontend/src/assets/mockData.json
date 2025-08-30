@@ -1,0 +1,148 @@
+[
+    {
+        "id": 1,
+        "name": "Customer Satisfaction Survey",
+        "dateOfPublish": "2022-01-01",
+        "endDate": "2022-01-31",
+        "status": "DRAFT",
+        "listOfUsers": [
+            "user1@example.com",
+            "user2@example.com",
+            "user3@example.com"
+        ],
+        "noOfUsersAttended": []
+    },
+    {
+        "id": 2,
+        "name": "Employee Engagement Survey",
+        "dateOfPublish": "2022-02-01",
+        "endDate": "2022-02-28",
+        "status": "PUBLISHED",
+        "listOfUsers": [
+            "user4@example.com",
+            "user5@example.com",
+            "user6@example.com",
+            "rebanta@example.com"
+        ],
+        "noOfUsersAttended": [
+            "user4@example.com"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Product Feedback Survey",
+        "dateOfPublish": "2022-03-01",
+        "endDate": "2022-03-31",
+        "status": "DRAFT",
+        "listOfUsers": [
+            "user7@example.com",
+            "user8@example.com"
+        ],
+        "noOfUsersAttended": [
+            "user8@example.com"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Market Research Survey",
+        "dateOfPublish": "2022-04-01",
+        "endDate": "2022-04-30",
+        "status": "PUBLISHED",
+        "listOfUsers": [
+            "user10@example.com",
+            "user11@example.com",
+            "user12@example.com"
+        ],
+        "noOfUsersAttended": [
+            "user10@example.com",
+            "user11@example.com"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Brand Awareness Survey",
+        "dateOfPublish": "2022-05-01",
+        "endDate": "2022-05-31",
+        "status": "DRAFT",
+        "listOfUsers": [
+            "user13@example.com",
+            "user14@example.com",
+            "user15@example.com"
+        ],
+        "noOfUsersAttended": []
+    },
+    {
+        "id": 6,
+        "name": "Website Feedback Survey",
+        "dateOfPublish": "2022-06-01",
+        "endDate": "2022-06-30",
+        "status": "PUBLISHED",
+        "listOfUsers": [
+            "user16@example.com",
+            "user17@example.com",
+            "user18@example.com"
+        ],
+        "noOfUsersAttended": [
+            "user16@example.com"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Event Feedback Survey",
+        "dateOfPublish": "2022-07-01",
+        "endDate": "2022-07-31",
+        "status": "DRAFT",
+        "listOfUsers": [
+            "user19@example.com",
+            "user20@example.com",
+            "user21@example.com"
+        ],
+        "noOfUsersAttended": []
+    },
+    {
+        "id": 8,
+        "name": "Training Needs Assessment Survey",
+        "dateOfPublish": "2022-08-01",
+        "endDate": "2022-08-31",
+        "status": "PUBLISHED",
+        "listOfUsers": [
+            "user22@example.com",
+            "user23@example.com",
+            "user24@example.com"
+        ],
+        "noOfUsersAttended": [
+            "user22@example.com",
+            "user23@example.com"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Social Media Usage Survey",
+        "dateOfPublish": "2022-09-01",
+        "endDate": "2022-09-30",
+        "status": "DRAFT",
+        "listOfUsers": [
+            "user25@example.com",
+            "user26@example.com",
+            "user27@example.com"
+        ],
+        "noOfUsersAttended": []
+    },
+    {
+        "id": 10,
+        "name": "Online Shopping Habits Survey",
+        "dateOfPublish": "2022-10-01",
+        "endDate": "2022-10-31",
+        "status": "PUBLISHED",
+        "listOfUsers": [
+            "user28@example.com",
+            "user29@example.com",
+            "user30@example.com"
+        ],
+        "noOfUsersAttended": [
+            "user28@example.com",
+            "user29@example.com",
+            "user30@example.com"
+        ]
+    }
+]

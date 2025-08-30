@@ -1,0 +1,113 @@
+[
+    {
+        "surveyTitle": "Customer Feedback",
+        "surveyEndDate": "2024-03-14T18:30:00.000Z",
+        "users": {
+            "users": [
+                {
+                    "eduid": "ed359133",
+                    "email": "himanshu.agnihotri-ext@st.com",
+                    "firstName": "Himanshu",
+                    "lastName": "AGNIHOTRI",
+                    "location": "Greater Noida",
+                    "displayName": "Himanshu AGNIHOTRI",
+                    "mobile": "",
+                    "organization": "ICT",
+                    "jobFunction": "Support Engineering"
+                },
+                {
+                    "eduid": "ed973914",
+                    "email": "himanshukumar.mishra@st.com",
+                    "firstName": "Himanshu Kumar",
+                    "lastName": "MISHRA",
+                    "location": "Greater Noida",
+                    "displayName": "Himanshu Kumar MISHRA",
+                    "mobile": "",
+                    "organization": "ICT",
+                    "jobFunction": "IT Application Management"
+                },
+                {
+                    "eduid": "ed001750",
+                    "email": "himanshu.arora-ext@st.com",
+                    "firstName": "Himanshu",
+                    "lastName": "ARORA",
+                    "location": "Geneva",
+                    "displayName": "Himanshu ARORA",
+                    "mobile": "",
+                    "organization": "ICT",
+                    "jobFunction": ""
+                }
+            ],
+            "groups": [
+                "text"
+            ]
+        },
+        "workflow": [
+            {
+                "fieldLabel": "Enter name",
+                "fieldName": "name",
+                "fieldUniqueKey": "name",
+                "fieldType": "text",
+                "options": [
+                    ""
+                ],
+                "value": ""
+            },
+            {
+                "fieldLabel": "Enter gender",
+                "fieldName": "gender",
+                "fieldUniqueKey": "gender",
+                "fieldType": "radio",
+                "options": [
+                    "Male",
+                    "Female",
+                    "Others"
+                ],
+                "value": ""
+            },
+            {
+                "fieldLabel": "Enter department",
+                "fieldName": "department",
+                "fieldUniqueKey": "department",
+                "fieldType": "dropdown",
+                "options": [
+                    "DTIT",
+                    "ADG",
+                    "TDP",
+                    "HR"
+                ],
+                "value": ""
+            },
+            {
+                "fieldLabel": "Enter Date of Birth",
+                "fieldName": "dob",
+                "fieldUniqueKey": "dob",
+                "fieldType": "date",
+                "options": [
+                    ""
+                ],
+                "value": ""
+            },
+            {
+                "fieldLabel": "Enter Feedback",
+                "fieldName": "feedback",
+                "fieldUniqueKey": "feedback",
+                "fieldType": "comments",
+                "options": [
+                    ""
+                ],
+                "value": ""
+            },
+            {
+                "fieldLabel": "Anonymous user",
+                "fieldName": "anonymous",
+                "fieldUniqueKey": "anonymous",
+                "fieldType": "anomynous",
+                "options": [
+                    ""
+                ],
+                "value": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "fieldLabel": "Enter name",
+        "fieldName": "name",
+        "fieldUniqueKey": "name",
+        "fieldType": "text",
+        "options": [
+            ""
+        ],
+        "value": ""
+    },
+    {
+        "fieldLabel": "Enter gender",
+        "fieldName": "gender",
+        "fieldUniqueKey": "gender",
+        "fieldType": "radio",
+        "options": [
+            "Male",
+            "Female",
+            "Others"
+        ],
+        "value": ""
+    },
+    {
+        "fieldLabel": "Enter department",
+        "fieldName": "department",
+        "fieldUniqueKey": "department",
+        "fieldType": "dropdown",
+        "options": [
+            "DTIT",
+            "ADG",
+            "TDP",
+            "HR"
+        ],
+        "value": ""
+    },
+    {
+        "fieldLabel": "Enter Date of Birth",
+        "fieldName": "dob",
+        "fieldUniqueKey": "dob",
+        "fieldType": "date",
+        "options": [
+            ""
+        ],
+        "value": ""
+    },
+    {
+        "fieldLabel": "Enter Feedback",
+        "fieldName": "feedback",
+        "fieldUniqueKey": "feedback",
+        "fieldType": "comments",
+        "options": [
+            ""
+        ],
+        "value": ""
+    },
+    {
+        "fieldLabel": "Anonymous user",
+        "fieldName": "anonymous",
+        "fieldUniqueKey": "anonymous",
+        "fieldType": "anomynous",
+        "options": [
+            ""
+        ],
+        "value": ""
+    }
+]
